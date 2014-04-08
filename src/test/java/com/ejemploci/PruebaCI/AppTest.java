@@ -11,6 +11,6 @@ public class AppTest
 	@Test
 	public void ejemploTest() throws Exception
 	{
-		assertTrue(10 == 10);
+		assertTrue(10 == 11);
 	}
 }
